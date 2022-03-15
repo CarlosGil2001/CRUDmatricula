@@ -1,0 +1,12 @@
+.foto:hover{
+ opacity: 0.7;
+ background-color: green;
+}
+.foto_portada:hover{
+ opacity: 0.7;
+ background-color: #2E4964;
+}
+.texto {
+-webkit-text-stroke: 1px black;
+
+}
