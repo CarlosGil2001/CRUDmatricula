@@ -169,8 +169,8 @@ ALTER TABLE `matriculas`
 --
 -- Indices de la tabla `migrations`
 --
-ALTER TABLE `migrations`
-  ADD PRIMARY KEY (`id`);
+-- ALTER TABLE `migrations`
+--  ADD PRIMARY KEY (`id`);
 
 --
 -- Indices de la tabla `nivels`
