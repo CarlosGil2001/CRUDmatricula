@@ -217,8 +217,8 @@ ALTER TABLE `matriculas`
 --
 -- AUTO_INCREMENT de la tabla `migrations`
 --
-ALTER TABLE `migrations`
-  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+-- ALTER TABLE `migrations`
+--  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
 
 --
 -- AUTO_INCREMENT de la tabla `nivels`
