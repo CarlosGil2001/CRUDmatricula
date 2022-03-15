@@ -1,0 +1,7 @@
+--El CRUD se ha realizado en LARAVEL 7 con migraciones y seeders.
+
+NOTA: AL MIGRAR CON LARAVEL SE CREARÁ UNA TABLA SUELTA "Migrations",  QUE ESPECIFICARÁ LAS MIGRACIONES QUE SE ESTÁN REALIZANDO.
+
+--EJECUTAR CRUD EN LARAVEL:
+--Al ejecutar se crearán las tablas y se insertarán unos datos por default.
+$ php artisan migrate:refresh --seed
