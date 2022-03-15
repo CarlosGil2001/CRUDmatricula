@@ -63,10 +63,10 @@
                   <div class="mu-top-email">
                     <i class="fa fa-envelope"></i>
                    
-                    <span></span>
+                    <span>education@edu.pe</span>
                   </div>
                   <div class="mu-top-phone">
-                    <i class="fa fa-phone"></i>
+                    <i class="fa fa-phone">011 - 4545</i>
                     <span></span>
                   </div>
                 </div>
@@ -223,9 +223,9 @@
                 <h4>Contacto</h4>
                 <address>
            
-                  <p>Location: </p>
-                  <p>Telefono:  </p>
-                  <p>Email: </p>
+                  <p>Location: Lima</p>
+                  <p>Telefono:  011 - 4545</p>
+                  <p>Email: education@edu.pe </p>
                 </address>
               </div>
             </div>

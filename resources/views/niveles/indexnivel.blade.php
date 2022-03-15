@@ -133,7 +133,6 @@
                       <div class="mu-single-sidebar"style="background-color:#F3C6AE;border-radius: 5px;">
                         <h3><b>Referencias</b></h3>
                         <ul class="mu-sidebar-catg">
-                         <li><a href="{{URL::to('/sitio')}}">Inicio</a></li>
                        
                          
                           <li><a href="{{URL::to('/ficha')}}">Alumnos</a></li>
